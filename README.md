@@ -6,7 +6,7 @@
 * * * * *
 
 ## Сертификаты Нетологии
-- [Основы Java](https://github.com/Neda-clu/certificates/blob/main/certificate1.pdf))
+- [Основы Java](https://github.com/Neda-clu/certificates/blob/main/certificate1.pdf)
 - [Основы ООП](https://github.com/Neda-clu/certificates/blob/main/certificate2.pdf)
 - [GIT-система контроля версий](https://github.com/Neda-clu/certificates/blob/main/certificate3.pdf)
 - [Java Core](https://github.com/Neda-clu/certificates/blob/main/certificate4.pdf)
