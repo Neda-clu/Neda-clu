@@ -6,11 +6,11 @@
 * * * * *
 
 ## Сертификаты Нетологии
-- [Основы Java](certificate1.pdf)
-- [Основы ООП](certificate2.pdf)
-- [GIT-система контроля версий](certificate3.pdf)
-- [Java Core](certificate4.pdf)
-- [Шаблоны проектирования](certificate5.pdf)
-- [Многопоточное и функциональное программирование](certificate6.pdf)
-- [Web, Spring & Spring MVC](certificate7.pdf)
-- [Spring Boot, deployment и инфраструктура](certificate8.pdf)
+- [Основы Java](https://github.com/Neda-clu/certificates/blob/main/certificate1.pdf))
+- [Основы ООП](https://github.com/Neda-clu/certificates/blob/main/certificate2.pdf)
+- [GIT-система контроля версий](https://github.com/Neda-clu/certificates/blob/main/certificate3.pdf)
+- [Java Core](https://github.com/Neda-clu/certificates/blob/main/certificate4.pdf)
+- [Шаблоны проектирования](https://github.com/Neda-clu/certificates/blob/main/certificate5.pdf)
+- [Многопоточное и функциональное программирование](https://github.com/Neda-clu/certificates/blob/main/certificate6.pdf)
+- [Web, Spring & Spring MVC](https://github.com/Neda-clu/certificates/blob/main/certificate7.pdf)
+- [Spring Boot, deployment и инфраструктура](https://github.com/Neda-clu/certificates/blob/main/certificate8.pdf)
