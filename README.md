@@ -14,3 +14,6 @@
 - [Многопоточное и функциональное программирование](https://github.com/Neda-clu/certificates/blob/main/certificate6.pdf)
 - [Web, Spring & Spring MVC](https://github.com/Neda-clu/certificates/blob/main/certificate7.pdf)
 - [Spring Boot, deployment и инфраструктура](https://github.com/Neda-clu/certificates/blob/main/certificate8.pdf)
+
+## Сертификаты Maximum Education
+- [Программирование на Python](https://github.com/Neda-clu/certificates/tree/main/MEducation)
